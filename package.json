@@ -1,0 +1,18 @@
+{
+  "name": "craft-game-downloads",
+  "version": "1.0.0",
+  "description": "High-performance Craft game versions download portal and full-control admin management dashboard.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "keywords": [
+    "craft",
+    "game-downloads",
+    "admin-dashboard",
+    "ad-manager"
+  ],
+  "author": "",
+  "license": "MIT"
+}
